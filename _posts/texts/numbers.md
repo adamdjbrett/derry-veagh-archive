@@ -1,0 +1,5 @@
+# Numbers Alone Cannot Express...
+The official Derryveagh Eviction Report tells us that there were 46 houses from which 47 families were evicted. 159 children were put out on the road. 28 homes were unroofed or levelled with only 4 families temporarily readmitted. 11,602 acres of land were seized. The total number of persons having only the sky for their shelter was 244.
+
+Paul J. McGeady
+"The Derryveagh Evictions"
