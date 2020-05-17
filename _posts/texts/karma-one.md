@@ -1,2 +1,0 @@
-# Karma 1: Cause and Effect?
-In 1887, Mrs. Adair raised Rathdaire Church (Church of Ireland) to her husband's memory. Within a few months time, their grand Rathdaire mansion suddenly burned to the ground.

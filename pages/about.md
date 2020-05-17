@@ -3,6 +3,9 @@ redirect_from:
   - /mission/
 ---
 # About
+## Derryveagh Evictions: History, Ireland, Dispossession and Donegal.
+In April 1861 - The Month of the Shattered Hearth - landlord John George Adair evicted nearly 250 tenants from Derryveagh, a star-crossed townland in Donegal, Ireland. Adair blamed the unsolved murder of his land steward on the whole community and uprooted them, utterly. The Derryveagh young were soon assisted, by ship, to farthest Australia. By swapping his Gaelic eyesores for imported Scottish sheep, and then a mini-castle for his American bride, Black Jack Adair depopulated the region, scandalized Parliament and sparked a _cause celebre_ that roiled Ireland, England, Australia and America.
+
 
 ## Mission Statement
 The past endures, often hidden in plain sight. All around our neighborhoods, there are shards and bits, pieces to reassemble and dots to reconnect. Knee-deep in broken links, we look but fail to see. We walk or drive but don't know what lies underfoot, or what is just around the corner, or even wonder why it's there at all. Some label this our "historical amnesia," and just leave it at that. But there really are reasons for things and being true to our basic curiosity - asking the spontaneous "why?," that bubbles over in children - is the best way to learn them.

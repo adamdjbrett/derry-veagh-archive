@@ -1,6 +1,0 @@
-# What the Famine Couldn't Do...
-By two, Wednesday afternoon, the terrible work had been accomplished and a deathly silence descended over the whole area. The Derryveagh District had been cleared of people and Adair had accomplished what the ravages of the Great Famine had failed to do.
-
-Liam Dolan
-Land War and Evictions in Derryveagh
-1980
