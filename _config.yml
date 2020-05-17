@@ -211,6 +211,11 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Plugins (previously gems:)
 plugins:
@@ -279,3 +284,23 @@ defaults:
       comments: # true
       share: true
       related: true
+  # pdfs
+  - scope:
+      path: "media/files"
+    values:
+      pdf: true
+  # swf
+  - scope:
+      path: "swf"
+    values:
+      swf: true
+
+defaults:
+  # _galleries
+  - scope:
+      path: ""
+      type: galleries
+    values:
+      layout: single
+      author_profile: false
+      share: true

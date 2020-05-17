@@ -1,3 +1,8 @@
+---
+title: "Credits"
+excerpt: "Thanks to everyone who makes this project successful"
+permalink: /credits/
+---
 ## Updated Site by:
   - Robert Spiegelman
   - Hosted by [Indigenous Values Initiative](https://indigenousvalues.org/)
